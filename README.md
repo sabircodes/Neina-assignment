@@ -1,8 +1,9 @@
-# React + Vite
+# Home Page
+![image](https://github.com/user-attachments/assets/587b1d97-f27d-4c98-a3b2-4b890b474bf7)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# user History Modal
+![image](https://github.com/user-attachments/assets/5e3adf14-afea-4964-9ee9-4d6af3ea68e6)
 
-Currently, two official plugins are available:
+# user info modal
+![image](https://github.com/user-attachments/assets/b5df035f-ea30-472f-a193-3483f710a49c)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
